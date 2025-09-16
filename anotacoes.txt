@@ -1,0 +1,8 @@
+            print("Você ultrapassou o limite de tentativas. Voltando para o Menu. . .\n")
+            continue
+        break   # esse break encerra o while True se login for correto
+
+        antigo: 
+                  # if tentativas == 0:
+          #     print("Você ultrapassou o limite de tentativas. Voltando para o Menu. . .\n")
+          # coloquei um if dentro de um elif desnecessario e nao encerrei o laço for com condiçao else  
